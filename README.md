@@ -6,11 +6,11 @@ Organization calendar for McMaster students.
 
 TODO
 ==========
-Parse, Access, and Store Master Timetable (as needed)
+Parse, Access, and Store Master Timetable (as needed) -Ben
 
-Input Courses 
+Input Courses (settings tab) - Teo
 
-Display Calendar
+Display Calendar - Mikail
 
     Weekly
 
@@ -18,6 +18,6 @@ Display Calendar
 
     Next Course
 
-Tab Infrastructure
+Tab Infrastructure - Mushfiqur?
 
 
