@@ -10,13 +10,13 @@ Parse, Access, and Store Master Timetable (as needed) -Ben
 
 Input Courses (settings tab) - Teo
 
-Display Calendar - Mikail
+Display Calendar - Mikhail
 
-    Weekly
+    - 3. Weekly
 
-    Daily
+    - 1. Daily
 
-    Next Course
+    - 2. Next Course
 
 Tab Infrastructure - Mushfiqur?
 
